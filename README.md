@@ -31,12 +31,6 @@ Automatically sets the international country calling code in Forminator's phone 
 3. Activate the plugin via WordPress admin
 4. Go to **Settings > Forminator Phone Autodetect** to add your ipapi.co API key (optional)
 
----
-
-## 📸 Screenshots
-
-- Admin settings with API key field
-- Auto-filled phone field in Forminator with country code
 
 ---
 
