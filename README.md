@@ -4,7 +4,7 @@
 **Donate:** [https://www.paypal.com/donate/?hosted_button_id=MDDGA8HUZA4B4](https://www.paypal.com/donate/?hosted_button_id=MDDGA8HUZA4B4)
 
 Automatically sets the international country calling code in Forminator's phone field using the visitor's IP address. Supports [ipapi.co](https://ipapi.co) with optional API key.
-
+![Forminator Phone Autodetect Screenshot](wordpress-forminator-auto-detect.png)
 ---
 
 ## 🌍 Features
